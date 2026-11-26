@@ -106,9 +106,3 @@ tool_python="$tool_dir/.venv312/bin/python"
 
 - [SKILL.md](SKILL.md) 定义教学流程、练习反馈、复习和学习地图。
 - [scripts/bilibili_lesson.py](scripts/bilibili_lesson.py) 获取 B 站分集信息并调用转写工具。
-
-## 参考项目
-
-- [Jane Street · Socratic Tutor](https://github.com/janestreet/agent_skills/tree/master/socratic-tutor)
-- [Hammer · Teach](https://github.com/SebastianElvis/hammer/tree/main/skills/teach)
-- [AI Teaching Skills](https://github.com/bstellato/ai-teaching-skills)
